@@ -1,0 +1,8 @@
+{
+  "azureFunctions.deploySubpath": "target/azure-functions/flexiblepostgres-java-func-1623216737333",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~3",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
